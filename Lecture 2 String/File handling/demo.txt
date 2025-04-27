@@ -1,0 +1,7 @@
+my name is umar my age is 20 year
+ my age is 20 year
+ my age is 20 year
+Hi everyone 
+ we are learning file I/O 
+ using java
+ i like programming in java
